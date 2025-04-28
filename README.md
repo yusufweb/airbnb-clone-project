@@ -1,2 +1,2 @@
 # airbnb-clone-project
-UI/UX Design Planning.
+#UI/UX Design Planning.
