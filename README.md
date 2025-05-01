@@ -62,8 +62,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 | QA/Testers | 	Writes test cases, performs testing, reports bugs |
 | DevOps Engineers | 	Manages deployment, CI/CD pipeline, server infrastructure |
 | Product Owner | 	Defines requirements, prioritizes features, represents stakeholders |
-| Scrum Master | 	DFacilitates agile processes, removes blockers, organizes meetings
- |
+| Scrum Master | 	DFacilitates agile processes, removes blockers, organizes meetings|
 
 ## UI Component Patterns
 ###Planned Components
